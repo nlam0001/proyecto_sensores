@@ -13,6 +13,7 @@ Abre una terminal en la carpeta del proyecto e instala las librerías necesarias
 
 ```bash
 pip install streamlit mysql-connector-python pandas numpy
+````
 
 ## Pasos para Ejecutar el Dashboard
 
@@ -24,3 +25,4 @@ Inicia la interfaz web ejecutando el siguiente comando:
 
 ```bash
 streamlit run app.py
+```
